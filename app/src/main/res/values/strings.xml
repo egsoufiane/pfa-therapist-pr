@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">pr_pfa2</string>
+    <string-array name="moroccan_cities">
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>Marrakech</item>
+        <item>Tangier</item>
+        <item>Agadir</item>
+        <item>Meknes</item>
+        <item>Oujda</item>
+        <item>Kenitra</item>
+        <item>Tetouan</item>
+    </string-array>
+    <string-array name="states">
+        <item></item>
+        <item>sheduled</item>
+        <item>done</item>
+        <item>canceled</item>
+    </string-array>
+    <string name="email">Email</string>
+    <string name="delete">Delete</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+</resources>
